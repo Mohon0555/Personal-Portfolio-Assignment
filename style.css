@@ -26,7 +26,13 @@ section{
     margin: 5%;
     padding: 0%;
 }
+.last-div{
+    width: 100%;
+    float: down;
+    margin: 10%;
+    padding: 10px;
 
+}
 
 .Name{
     color: rosybrown;
@@ -88,9 +94,8 @@ height: 600px;
 .button-footer{
     text-decoration: none;
     background-image: linear-gradient(45deg, lightsalmon, tomato);
-    padding: 100px 200px 100px 200px;
-    border-radius: 5px;
+    padding: 100px 300px 100px;
+    justify-content: center;
+    background-repeat: no-repeat;
     color: white;
-    
-
 }
