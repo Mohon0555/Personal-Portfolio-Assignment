@@ -26,13 +26,6 @@ section{
     margin: 5%;
     padding: 0%;
 }
-.last-div{
-    width: 100%;
-    float: down;
-    margin: 10%;
-    padding: 10px;
-
-}
 
 .Name{
     color: rosybrown;
@@ -89,13 +82,15 @@ height: 600px;
     }
     #CEO{
         color: rosybrown;
-    
-    }
-.button-footer{
-    text-decoration: none;
-    background-image: linear-gradient(45deg, lightsalmon, tomato);
-    padding: 100px 300px 100px;
-    justify-content: center;
-    background-repeat: no-repeat;
-    color: white;
 }
+.last-div{
+background-color: lightsalmon;
+border: lightsalmon;
+border-radius:3px ;
+margin:50px 400px 40px 400px;
+color: white;
+height: 100px;
+text-align: center;
+}
+
+
